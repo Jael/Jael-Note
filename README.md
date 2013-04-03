@@ -5,5 +5,4 @@ Some text with `some code` inside,
     
     jkjkjlkjlkjlk`
 sentence A
-
 sentence B
