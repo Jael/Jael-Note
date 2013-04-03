@@ -6,3 +6,7 @@ Some text with `some code` inside,
     jkjkjlkjlkjlk`
 sentence A
 sentence B
+
+This is a normal paragraph:
+
+    This is a code block.
