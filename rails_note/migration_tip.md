@@ -9,4 +9,6 @@ to create the table without the `id` field
 
 #User
 
-    email: 邮箱
+    email: 用户邮箱 必须存在且唯一
+    encrypted_password: 密码
+    reset_passwod_token: 重置密码令牌
