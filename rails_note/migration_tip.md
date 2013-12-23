@@ -18,6 +18,8 @@ to create the table without the `id` field
     last_sign_in_ip: (string) 最后一次登录ip
     created_at: (datetime) 创建时间
     updated_at: (datetime) 更新时间
+    
+#User
 
 字段名 | 类型 |说明
 ------------ | ------------- | ------------
