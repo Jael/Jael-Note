@@ -7,7 +7,7 @@
 The `id:false` option passed to `create_table` here tells Active Record
 to create the table without the `id` field
 
-#User
+###User
 
     email: (string) 用户邮箱 必填, 唯一
     encrypted_password: (string) 密码
@@ -19,7 +19,7 @@ to create the table without the `id` field
     created_at: (datetime) 创建时间
     updated_at: (datetime) 更新时间
     
-#User
+###User
 字段名 | 类型 |说明
 ------------ | ------------- | ------------
 email | string  | 必填， 唯一
