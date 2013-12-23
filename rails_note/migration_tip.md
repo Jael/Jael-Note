@@ -6,3 +6,7 @@
 
 The `id:false` option passed to `create_table` here tells Active Record
 to create the table without the `id` field
+
+#User
+
+    email: 邮箱
